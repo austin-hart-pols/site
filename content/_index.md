@@ -1,7 +1,7 @@
 ---
 title: "Austin Hart"
 subtitle: "Associate Professor"
-description: "Thanks for visiting! I am Associate Professor in the Department of Politics, Governance, and Economics at American University. I study mass electoral politics and voting behavior. I'm especially interested in how voters form attitudes about government performance. I teach courses on data analysis and statistics."
+description: "Thanks for visiting! I am Associate Professor in the Department of Politics, Governance, and Economics at American University. I study democratic accountability and how people form and change attitudes about politics. I teach courses on data analysis and research design."
 images:
   - img/revoir.jpg
 image_left: true

@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Austin Hart"
   orgLocal = "Washington, DC"
-  description = "A modern, beautiful, and easily configurable blog theme for Hugo."
+  description = "Associate Professor"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
   mainSections = ["blog", "project", "talk"]
@@ -112,15 +112,20 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Research"
-    title = "What I work on"
-    url = "/blog/"
-    weight = 2
+    name = "Books"
+    title = "Books"
+    url = "/books/"
+    weight = 3
+  [[menu.header]]
+    name = "Publications"
+    title = "Publications"
+    url = "/publications/"
+    weight = 4
   [[menu.header]]
     name = "Courses"
     title = "What I teach"
-    url = "/project/"
-    weight = 3
+    url = "/courses/"
+    weight = 5
 
     
   # Configure footer  
