@@ -1,42 +1,29 @@
 ---
 title: "SIS-750"
 subtitle: "Data Analysis"
-excerpt: "MA course in programming, visualization, and markup in data analysis."
-date: 2024-03-01
+excerpt: "SIS-750 Data Analysis (3). This course introduces students to the study and practice of data analysis, focusing especially on generating, managing, and analyzing quantitative data. Topics include data visualization, data cleaning, and the presentation of data and data analysis to professional audiences. Offered in spring. Prerequisite: SIS-600."
+date: 2024-04-09
 author: ""
 draft: false
 layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
+  name: Website
+  url: https://github.com/sis750
 ---
 
 
-### SIS-600
+### SIS-750
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
+This course introduces the art and practice of data analysis using R and RMarkdown. It focuses on the preparation of data (data wrangling or munging), professional presentation of data and analysis, and the process of producing scalable, replicable work (statistical and literate programming). More than just learning the requisite code, I emphasize the professional outputs associated with a career in data analysis. This semester is a chance to get your hands dirty in the world of analysis and explore the new and challenging puzzles you face every day in this profession.
+Learning outcomes and objectives
 
+Students who complete this course will be proficient junior analysts. They will be able to:
 
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
+- build, clean, and manipulate quantitative data
+- generate professional data visualizations
+- present data-driven research to a professional audience
+- write clear, efficient, reproducible code in the R programming language
 
-### Multiple Layouts
-
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
-
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
+Offered every Spring.

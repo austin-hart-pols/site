@@ -1,8 +1,8 @@
 ---
 title: "SIS-806"
-subtitle: "Quant Methods in IR"
-excerpt: "PhD course in quantitative methods and research design."
-date: 2024-07-01
+subtitle: "Quantitative Methods"
+excerpt: "Quantitative Methods in International Relations (3). This course is an epistemological and methodological survey of quantitative social scientific inquiry. It examines concept construction and measurement in statistical and other research techniques. Emphasis is placed on the analysis of data and substantive interpretation of results. Offered every fall. Restriction: International Relations (PhD)."
+date: 2024-04-01
 author: ""
 draft: false
 layout: single
@@ -11,32 +11,10 @@ links:
   icon_pack: fas
   name: website
   url: https://bakeoff.netlify.com/
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/apreshill/bakeoff
 ---
 
 
 ### SIS-806
+This course provides an introduction to statistical methods used in international relations research. After learning about the structure of causal analysis we will cover several common research strategies. As we do so, we will learn a series of statistical techniques for evaluating empirical relationships. Throughout the course we will focus on the generation and interpretation of statistical analyses and what they can and cannot tell us about the phenomena we hope to explain.
 
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
-
-
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
-
-### Multiple Layouts
-
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
-
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
+This course will train students to be critical consumers of empirical research and capable producers of statistical analyses. First, the course will provide students with the analytic tools needed to evaluate causal claims made on the basis of empirical study. By the end of the semester, students will be able to critique study designs, recognize common sources of bias, and suggest appropriate remedies. Second, this course will train students to use statistical techniques, including multivariate regression analysis, to answer research questions on their own. Students will learn (i) how to obtain and format data, (ii) how to summarize and evaluate empirical relationships, (iii) how to make appropriate inferences based on their analyses, and (iv) how to present statistical results to a general audience.

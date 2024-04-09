@@ -39,16 +39,19 @@
     <lastmod>2021-01-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/courses/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/courses/sis806/</loc>
-    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/courses/sis750/</loc>
-    <lastmod>2024-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/courses/sis600/</loc>
+    <lastmod>2024-04-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/courses/sis806/</loc>
+    <lastmod>2024-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/blog/</loc>
     <lastmod>2021-01-28T00:00:00+00:00</lastmod>
@@ -110,9 +113,6 @@
     <loc>http://localhost:4321/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/courses/sis600/</loc>
-    <lastmod>2019-07-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/contact/</loc>
     <lastmod>2019-02-25T13:38:41-06:00</lastmod>
   </url><url>
@@ -141,8 +141,6 @@
     <loc>http://localhost:4321/books/</loc>
   </url><url>
     <loc>http://localhost:4321/publications/</loc>
-  </url><url>
-    <loc>http://localhost:4321/contributors/</loc>
   </url><url>
     <loc>http://localhost:4321/license/</loc>
   </url><url>
