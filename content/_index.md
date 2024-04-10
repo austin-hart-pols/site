@@ -3,7 +3,7 @@ title: "Austin Hart"
 subtitle: "Associate Professor"
 description: "Thanks for visiting! I am Associate Professor in the Department of Politics, Governance, and Economics at American University. I study democratic accountability and how people form and change attitudes about politics. I teach courses on data analysis and research design."
 images:
-  - img/revoir.jpg
+  - img/banner.webp
 image_left: true
 text_align_left: false
 show_social_links: true # specify social accounts in site config

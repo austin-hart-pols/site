@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "Austin Hart"
   orgLocal = "Washington, DC"
   description = "Associate Professor"
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/ah.png"
+  logo = "/img/ah.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
