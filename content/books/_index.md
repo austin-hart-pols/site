@@ -1,7 +1,7 @@
 ---
-title: "About"
+title: "My Books"
 description: |
-  A website template for Hugo developed by RStudio & Formspree and available for free.
+  I'm very proud to have published the two peer-reviewed academic books below. Have a look! Reach out about data or code for replication or further analysis.
 show_header: false
 sidebar_left: true
 # Keep this! Do not edit.

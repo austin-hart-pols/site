@@ -68,9 +68,6 @@
     <loc>http://localhost:4321/tags/style/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/color-themes/</loc>
-    <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/blog/fonts/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -101,15 +98,6 @@
     <loc>http://localhost:4321/series/</loc>
     <lastmod>2021-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/blog/seedling/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blog/rmarkdown/</loc>
-    <lastmod>2020-12-30T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/blog/css-grid-scaffold/</loc>
-    <lastmod>2019-07-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/blog/built-in-contact-form/</loc>
     <lastmod>2019-07-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -138,11 +126,11 @@
   </url><url>
     <loc>http://localhost:4321/about/</loc>
   </url><url>
-    <loc>http://localhost:4321/books/</loc>
-  </url><url>
     <loc>http://localhost:4321/publications/</loc>
   </url><url>
     <loc>http://localhost:4321/license/</loc>
+  </url><url>
+    <loc>http://localhost:4321/books/</loc>
   </url><url>
     <loc>http://localhost:4321/books/main/</loc>
   </url><url>
