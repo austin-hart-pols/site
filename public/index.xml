@@ -93,11 +93,25 @@
       <description>SIS-600 Effective research design is vital to answering questions about international affairs. Quantitative statistical techniques are an important and widespread part of this research: assessing empirical relationships over large numbers of observations. Engaging in scholarship and policymaking requires an ability to employ the tools, interpret the results, and understand the implications of statistical analysis. This course will introduce the basics of statistical methodology and train students to be critical consumers and capable producers of empirical research.</description>
     </item>
     <item>
+      <title>Quality Control</title>
+      <link>http://localhost:4321/publications/qualitycontrol/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/qualitycontrol/</guid>
+      <description>Summary Conventional models of voting behavior depict individuals who judge governments for how the world unfolds during their time in office. This phenomenon of retrospective voting requires that individuals integrate and appraise streams of performance information over time. Yet past experimental studies short-circuit this &amp;lsquo;integration-appraisal&amp;rsquo; process. In this Element, we develop a new framework for studying retrospective voting and present eleven experiments building on that framework. Notably, when we allow integration and appraisal to unfold freely, we find little support for models of &amp;lsquo;blind retrospection.</description>
+    </item>
+    <item>
       <title>SIS-806</title>
       <link>http://localhost:4321/courses/sis806/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/courses/sis806/</guid>
       <description>SIS-806 This course provides an introduction to statistical methods used in international relations research. After learning about the structure of causal analysis we will cover several common research strategies. As we do so, we will learn a series of statistical techniques for evaluating empirical relationships. Throughout the course we will focus on the generation and interpretation of statistical analyses and what they can and cannot tell us about the phenomena we hope to explain.</description>
+    </item>
+    <item>
+      <title>Unmasking Accountability</title>
+      <link>http://localhost:4321/publications/unmasking/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/unmasking/</guid>
+      <description>Abstract As local conditions come to reflect extralocal forces, signals of government competence grow more obscure. Yet we know relatively little about how voters evaluate incumbent performance in the context of interdependence. We use a series of simulated voting tasks to examine three theoretical possibilities: blind retrospection, rational discounting, and benchmarking. Across five experiments requiring “voters” to judge performance in a setting that obscures incumbent competence, we find consistent evidence of benchmarking—subjects rewarded incumbents, capable or otherwise, who outperformed a peer.</description>
     </item>
     <item>
       <title>Set up your social</title>
@@ -142,6 +156,34 @@
       <description>Font Sizes A A A A A A A A 6rem&#xA;(96px) 5rem&#xA;(80px) 3rem&#xA;(48px) 2.25rem&#xA;(36px) 1.5rem&#xA;(24px) 1.25rem&#xA;(20px) 1rem&#xA;(16px) .875rem&#xA;(14px) Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
     </item>
     <item>
+      <title>Economic Voting</title>
+      <link>http://localhost:4321/publications/economicvoting/</link>
+      <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/economicvoting/</guid>
+      <description>Summary The conventional wisdom of economic voting theory argues that a nation&amp;rsquo;s economic performance drives electoral outcomes. Therefore, voters will hold an administration accountable for its economic stewardship. Austin Hart challenges the simplicity of this notion, drawing on cognitive-psychological research on priming to demonstrate that the intensity of voters&amp;rsquo; exposure to economic campaign messages systematically conditions the strength of the economic vote. However, this study goes further than simply saying &amp;lsquo;campaigns matter&amp;rsquo;.</description>
+    </item>
+    <item>
+      <title>Priming Under Fire</title>
+      <link>http://localhost:4321/publications/primingunderfire/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/primingunderfire/</guid>
+      <description>Abstract This study reevaluates the classic “media priming” hypothesis, which argues that, when news coverage raises an issue’s salience, voters align their overall evaluation of the president with their assessment of him on that issue. Conventional studies typically show greater correspondence between issue approval and overall approval among individuals exposed to issue-related news. Although this is taken as evidence of media priming, this phenomenon is also consistent with another explanation.</description>
+    </item>
+    <item>
+      <title>Can Candidates Activate or Deactivate the Economic Vote?</title>
+      <link>http://localhost:4321/publications/activatemx/</link>
+      <pubDate>Mon, 01 Apr 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/activatemx/</guid>
+      <description>Abstract Do electoral campaigns affect the strength of the economic vote? Against the conventional expectation that candidates have little influence over when and to what extent economic voting occurs, I argue that political communications systematically condition voters’ willingness to hold candidates responsible for past economic performance. I test this priming-based approach against extant economic voting theory using data from Mexico’s 2000 and 2006 presidential elections, in which economic messages were absent and dominant respectively.</description>
+    </item>
+    <item>
+      <title>Can Candidates Activate or Deactivate the Economic Vote?</title>
+      <link>http://localhost:4321/publications/taxes/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/taxes/</guid>
+      <description>Abstract Correcting the relative lack of attention to the revenue side of public finance, this article examines to what extent globalization constrains partisan tax policy. The author hypothesizes that political ideology is still a good predictor of taxation in the neoliberal era, advancing this argument against the prominent globalization thesis: that global economic pressures have supplanted political ideology as the driving force of revenue policy. Although research in developed democracies identifies a resilient link between partisanship and policy outcomes, the impact of the drastic neoliberal transition on partisan policy making in the developing world remains poorly understood.</description>
+    </item>
+    <item>
       <title></title>
       <link>http://localhost:4321/about/header/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -163,53 +205,11 @@
       <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:4321/books/header/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/books/header/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:4321/books/sidebar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/books/sidebar/</guid>
-      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:4321/publications/header/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publications/header/</guid>
-      <description> </description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:4321/publications/sidebar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publications/sidebar/</guid>
-      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
-    </item>
-    <item>
       <title>License</title>
       <link>http://localhost:4321/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
-    </item>
-    <item>
-      <title>My Research</title>
-      <link>http://localhost:4321/books/main/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/books/main/</guid>
-      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
-    </item>
-    <item>
-      <title>My Research</title>
-      <link>http://localhost:4321/publications/main/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/publications/main/</guid>
-      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
     </item>
   </channel>
 </rss>

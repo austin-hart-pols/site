@@ -1,32 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My Books on Austin Hart</title>
+    <title>Publications on Austin Hart</title>
     <link>http://localhost:4321/books/</link>
-    <description>Recent content in My Books on Austin Hart</description>
+    <description>Recent content in Publications on Austin Hart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 01 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:4321/books/header/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/books/header/</guid>
-      <description> </description>
+      <title>Quality Control</title>
+      <link>http://localhost:4321/books/qualitycontrol/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/books/qualitycontrol/</guid>
+      <description>Summary Conventional models of voting behavior depict individuals who judge governments for how the world unfolds during their time in office. This phenomenon of retrospective voting requires that individuals integrate and appraise streams of performance information over time. Yet past experimental studies short-circuit this &amp;lsquo;integration-appraisal&amp;rsquo; process. In this Element, we develop a new framework for studying retrospective voting and present eleven experiments building on that framework. Notably, when we allow integration and appraisal to unfold freely, we find little support for models of &amp;lsquo;blind retrospection.</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:4321/books/sidebar/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/books/sidebar/</guid>
-      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
-    </item>
-    <item>
-      <title>My Research</title>
-      <link>http://localhost:4321/books/main/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/books/main/</guid>
-      <description>** index doesn&amp;rsquo;t contain a body, just front matter above. See about/list.html in the layouts folder **</description>
+      <title>Economic Voting</title>
+      <link>http://localhost:4321/books/economicvoting/</link>
+      <pubDate>Thu, 07 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/books/economicvoting/</guid>
+      <description>Summary The conventional wisdom of economic voting theory argues that a nation&amp;rsquo;s economic performance drives electoral outcomes. Therefore, voters will hold an administration accountable for its economic stewardship. Austin Hart challenges the simplicity of this notion, drawing on cognitive-psychological research on priming to demonstrate that the intensity of voters&amp;rsquo; exposure to economic campaign messages systematically conditions the strength of the economic vote. However, this study goes further than simply saying &amp;lsquo;campaigns matter&amp;rsquo;.</description>
     </item>
   </channel>
 </rss>

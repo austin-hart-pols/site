@@ -112,20 +112,20 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Books"
-    title = "Books"
-    url = "/books/"
-    weight = 3
-  [[menu.header]]
     name = "Publications"
-    title = "Publications"
+    title = "Books and articles"
     url = "/publications/"
-    weight = 4
+    weight = 2
+  [[menu.header]]
+    name = "CV"
+    title = "Link to CV"
+    url = "https://docs.google.com/document/d/13pk3wHMaRc4fJ7CxUIvda17Jr1C9FsZxHKzZXn-jF00/edit?usp=sharing"
+    weight = 3
   [[menu.header]]
     name = "Courses"
     title = "What I teach"
     url = "/courses/"
-    weight = 5
+    weight = 4
 
     
   # Configure footer  
