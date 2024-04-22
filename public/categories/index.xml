@@ -6,15 +6,8 @@
     <description>Recent content in Categories on Austin Hart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Theme Features</title>
-      <link>http://localhost:4321/categories/theme-features/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/theme-features/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Evergreen</title>
       <link>http://localhost:4321/categories/evergreen/</link>
@@ -23,10 +16,10 @@
       <description></description>
     </item>
     <item>
-      <title>R</title>
-      <link>http://localhost:4321/categories/r/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/r/</guid>
+      <title>Theme Features</title>
+      <link>http://localhost:4321/categories/theme-features/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/theme-features/</guid>
       <description></description>
     </item>
   </channel>

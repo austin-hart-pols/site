@@ -2,7 +2,7 @@
 title: "SIS-750"
 subtitle: "Data Analysis"
 excerpt: "SIS-750 Data Analysis (3). This course introduces students to the study and practice of data analysis, focusing especially on generating, managing, and analyzing quantitative data. Topics include data visualization, data cleaning, and the presentation of data and data analysis to professional audiences. Offered in spring. Prerequisite: SIS-600."
-date: 2024-04-09
+date: 2024-04-23
 author: ""
 draft: false
 layout: single

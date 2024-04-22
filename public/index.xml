@@ -6,84 +6,28 @@
     <description>Recent content on Austin Hart</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Netlify</title>
-      <link>http://localhost:4321/collection/day02/01-netlify/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/day02/01-netlify/</guid>
-      <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.&#xA;Pre-requisites Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
-    </item>
-    <item>
-      <title>A first post</title>
-      <link>http://localhost:4321/blog/spoonful-series/01-spoonful/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blog/spoonful-series/01-spoonful/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog/spoonful-series/01-spoonful.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series does this work? or this? Let&amp;rsquo;s start.&#xA;beginning middle end </description>
-    </item>
-    <item>
-      <title>A GitHub profile</title>
-      <link>http://localhost:4321/collection/day01/01-github/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/day01/01-github/</guid>
-      <description>Profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile&#xA;Pin projects to profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile&#xA;Profile README This is new! Let&amp;rsquo;s do it:&#xA;https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
-    </item>
-    <item>
-      <title>Prework</title>
-      <link>http://localhost:4321/collection/prework/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/prework/</guid>
-      <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.&#xA;Set up RStudio Cloud Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember). I want you to be able to work from your own laptop in this workshop, but Cloud is an important back-up plan should you run into troubles.</description>
-    </item>
-    <item>
-      <title>A postcard</title>
-      <link>http://localhost:4321/collection/day01/02-postcards/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/day01/02-postcards/</guid>
-      <description>Pre-requisites First, make sure you have the latest version of the postcards package installed from CRAN:&#xA;install.packages(&amp;#34;postcards&amp;#34;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:&#xA;Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;postcards&amp;#34;) [1] ‘0.2.0’ Create GitHub repo Online.&#xA;Clone GitHub repo usethis::create_from_github(&amp;#34;https://github.com/apreshill/global-postcard.git&amp;#34;) &amp;#x2728; Commit &amp;amp; Push! &amp;#x2728;</description>
-    </item>
-    <item>
-      <title>A second post</title>
-      <link>http://localhost:4321/blog/spoonful-series/02-spoonful/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blog/spoonful-series/02-spoonful/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog/spoonful-series/02-spoonful/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/02-spoonful/sidebar-inverse.jpg part 2! does this work? now for some very cool things more get ready! </description>
-    </item>
-    <item>
-      <title>Using blogdown</title>
-      <link>http://localhost:4321/collection/day02/02-blogdown/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/day02/02-blogdown/</guid>
-      <description>Pre-requisites First, make sure you have the latest version of the blogdown package installed from CRAN:&#xA;install.packages(&amp;#34;blogdoown&amp;#34;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:&#xA;Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;blogdown&amp;#34;) [1] ‘1.0’ Create GitHub repo Online.&#xA;Clone GitHub repo usethis::create_from_github(&amp;#34;https://github.com/apreshill/global-blogdown.git&amp;#34;) &amp;#x2728; Commit &amp;amp; Push! &amp;#x2728;</description>
-    </item>
-    <item>
-      <title>A third post</title>
-      <link>http://localhost:4321/blog/spoonful-series/03-spoonful/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blog/spoonful-series/03-spoonful/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/blog/spoonful-series/03-spoonful/index.markdown Here is my R Markdown source file: blog/spoonful-series/03-spoonful/index.Rmarkdown You&#39;ll want to edit this file, then re-knit to see the changes take effect in your site preview.&#xA;To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: blog My layout is: single-series Images in this page bundle: /blog/spoonful-series/03-spoonful/featured-photo.</description>
-    </item>
-    <item>
-      <title>A distill site</title>
-      <link>http://localhost:4321/collection/day01/03-distill/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/day01/03-distill/</guid>
-      <description>Pre-requisites First, make sure you have the latest version of the distill package installed from CRAN:&#xA;install.packages(&amp;quot;distill&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:&#xA;Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;#34;distill&amp;#34;) # [1] ‘1.2’ Create GitHub repo Online.&#xA;Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-distill.git&amp;quot;) &amp;#x2728; Commit &amp;amp; Push!</description>
-    </item>
-    <item>
-      <title>Warm woolen mittens</title>
-      <link>http://localhost:4321/collection/day02/03-blogdown/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/collection/day02/03-blogdown/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/collection/day02/03-blogdown/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
-    </item>
     <item>
       <title>SIS-750</title>
       <link>http://localhost:4321/courses/sis750/</link>
-      <pubDate>Tue, 09 Apr 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/courses/sis750/</guid>
       <description>SIS-750 This course introduces the art and practice of data analysis using R and RMarkdown. It focuses on the preparation of data (data wrangling or munging), professional presentation of data and analysis, and the process of producing scalable, replicable work (statistical and literate programming). More than just learning the requisite code, I emphasize the professional outputs associated with a career in data analysis. This semester is a chance to get your hands dirty in the world of analysis and explore the new and challenging puzzles you face every day in this profession.</description>
+    </item>
+    <item>
+      <title>SIS-806</title>
+      <link>http://localhost:4321/courses/sis806/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/courses/sis806/</guid>
+      <description>SIS-806 This course provides an introduction to statistical methods used in international relations research. After learning about the structure of causal analysis we will cover several common research strategies. As we do so, we will learn a series of statistical techniques for evaluating empirical relationships. Throughout the course we will focus on the generation and interpretation of statistical analyses and what they can and cannot tell us about the phenomena we hope to explain.</description>
+    </item>
+    <item>
+      <title>SISU-306</title>
+      <link>http://localhost:4321/courses/sis306/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/courses/sis306/</guid>
+      <description>SIS-306 This applied research course focuses on large N quantitative analysis, specifically the use of statistical techniques explain explain real world socio-political phenomena. Students acquire skills needed to solve common analytical quests and questions, including the acquisition, management, manipulation, estimation and interpretation of findings from large sample data, using both descriptive and inferential statistics. Students also learn common techniques for displaying and communicating findings for professional and lay audiences, culminating in the development of an original research project.</description>
     </item>
     <item>
       <title>SIS-600</title>
@@ -100,32 +44,11 @@
       <description>Summary Conventional models of voting behavior depict individuals who judge governments for how the world unfolds during their time in office. This phenomenon of retrospective voting requires that individuals integrate and appraise streams of performance information over time. Yet past experimental studies short-circuit this &amp;lsquo;integration-appraisal&amp;rsquo; process. In this Element, we develop a new framework for studying retrospective voting and present eleven experiments building on that framework. Notably, when we allow integration and appraisal to unfold freely, we find little support for models of &amp;lsquo;blind retrospection.</description>
     </item>
     <item>
-      <title>SIS-806</title>
-      <link>http://localhost:4321/courses/sis806/</link>
-      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/courses/sis806/</guid>
-      <description>SIS-806 This course provides an introduction to statistical methods used in international relations research. After learning about the structure of causal analysis we will cover several common research strategies. As we do so, we will learn a series of statistical techniques for evaluating empirical relationships. Throughout the course we will focus on the generation and interpretation of statistical analyses and what they can and cannot tell us about the phenomena we hope to explain.</description>
-    </item>
-    <item>
       <title>Unmasking Accountability</title>
       <link>http://localhost:4321/publications/unmasking/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/publications/unmasking/</guid>
       <description>Abstract As local conditions come to reflect extralocal forces, signals of government competence grow more obscure. Yet we know relatively little about how voters evaluate incumbent performance in the context of interdependence. We use a series of simulated voting tasks to examine three theoretical possibilities: blind retrospection, rational discounting, and benchmarking. Across five experiments requiring “voters” to judge performance in a setting that obscures incumbent competence, we find consistent evidence of benchmarking—subjects rewarded incumbents, capable or otherwise, who outperformed a peer.</description>
-    </item>
-    <item>
-      <title>Set up your social</title>
-      <link>http://localhost:4321/blog/social/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blog/social/</guid>
-      <description>There are five places where you can choose to show social icons. Here is the tl;dr:&#xA;site header (set in config.toml), site footer (set in config.toml), homepage (set in content/_index.md), about page in the sidebar (set in content/about/sidebar/index.md), and contact page (set in content/form/contact.md). Read on to learn how to set up your social icons, and how to show/hide them.&#xA;Configure social Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site config.</description>
-    </item>
-    <item>
-      <title>Style your site typography</title>
-      <link>http://localhost:4321/blog/fonts/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/blog/fonts/</guid>
-      <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.&#xA;Embedded fonts Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content &amp;#x2764;&amp;#xfe0f;!</description>
     </item>
     <item>
       <title>An evergreen post</title>
@@ -147,13 +70,6 @@
       <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
       <guid>http://localhost:4321/contact/</guid>
       <description>** Contact page don&amp;rsquo;t contain a body, just the front matter above. See form.html in the layouts folder.&#xA;Formspree requires a (free) account and new form to be set up. The link is made on the final published url in the field: Restrict to Domain. It is possible to register up to 2 emails free and you can select which one you want the forms to go to within Formspree in the Settings tab.</description>
-    </item>
-    <item>
-      <title>Typography Styles &amp; Element Examples</title>
-      <link>http://localhost:4321/elements/</link>
-      <pubDate>Mon, 18 Feb 2019 12:27:33 -0600</pubDate>
-      <guid>http://localhost:4321/elements/</guid>
-      <description>Font Sizes A A A A A A A A 6rem&#xA;(96px) 5rem&#xA;(80px) 3rem&#xA;(48px) 2.25rem&#xA;(36px) 1.5rem&#xA;(24px) 1.25rem&#xA;(20px) 1rem&#xA;(16px) .875rem&#xA;(14px) Type Samples Head&amp;shy;line Sub&amp;shy;head&amp;shy;line Level 1 Heading One page to rule them all...well, not really. This page displays sample typography and page elements to illustrate their style. Things like headings and paragraphs showing the beautiful type scale, form elements, tabular data, and image layouts just to name a few.</description>
     </item>
     <item>
       <title>Economic Voting</title>

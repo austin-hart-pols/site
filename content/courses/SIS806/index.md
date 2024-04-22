@@ -2,7 +2,7 @@
 title: "SIS-806"
 subtitle: "Quantitative Methods"
 excerpt: "Quantitative Methods in International Relations (3). This course is an epistemological and methodological survey of quantitative social scientific inquiry. It examines concept construction and measurement in statistical and other research techniques. Emphasis is placed on the analysis of data and substantive interpretation of results. Offered every fall. Restriction: International Relations (PhD)."
-date: 2024-04-01
+date: 2024-04-22
 author: ""
 draft: false
 layout: single
@@ -10,7 +10,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://bakeoff.netlify.com/
+  url: https://github.com/austin-hart-pols
 ---
 
 
